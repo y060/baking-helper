@@ -1,20 +1,19 @@
 
 {
-    "name": "",
-    "en": "",
-    "calories": ,
-    "nutrients":{
-        "protein": ,
-        "fat": ,
-        "satFat": ,
-        "carb": ,
-        "dietaryFiber": ,
-        "Na": ,
-        "K": ,
-        "Ca": ,
-        "Mg": ,
-        "Fe": ,
-        "Zn": 
-    }
-},
+            "name": "",
+            "weight": 0,
+            "calories": ,
+            "show": false,
+            "protein": ,
+            "fat": ,
+            "satFat": ,
+            "carb": ,
+            "dietaryFiber": ,
+            "Na": ,
+            "K": ,
+            "Ca": ,
+            "Mg": ,
+            "Fe": ,
+            "Zn": 
+        }
 

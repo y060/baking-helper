@@ -1,5 +1,5 @@
 {
-    "oil": [
+    "OIL": [
         {
             "name": "unsalt_butter",
             "weight": 0,
@@ -54,7 +54,7 @@
         }
     ],
 
-    "egg": [
+    "EGG": [
         {
             "name": "egg",
             "weight": 0,
@@ -109,7 +109,7 @@
         }
     ],
 
-    "sugar": [
+    "SUGAR": [
         {
             "name": "white_sugar",
             "weight": 0,
@@ -248,7 +248,7 @@
         }
     ],
     
-    "flour": [
+    "FLOUR": [
         {
             "name": "cake_flour",
             "weight": 0,
@@ -316,6 +316,216 @@
             "Mg": 0.97,
             "Fe": 0.034,
             "Zn": 0.023
+        }
+    ],
+
+    "POWDER":[
+        {
+            "name": "almond_flour",
+            "weight": 0,
+            "calories": 6.22,
+            "show": false,
+            "protein": 0.262,
+            "fat": 0.502,
+            "satFat": 0.037,
+            "carb": 0.162,
+            "dietaryFiber": 0.093,
+            "Na": 0.01,
+            "K": 6.67,
+            "Ca": 2.32,
+            "Mg": 2.51,
+            "Fe": 0.0322,
+            "Zn": 0.028
+        },
+        {
+            "name": "cocoa_powder",
+            "weight": 0,
+            "calories": 4.64,
+            "show": false,
+            "protein": 0.208,
+            "fat": 0.228,
+            "satFat": 0.147,
+            "carb": 0.438,
+            "dietaryFiber": 0.247,
+            "Na": 0.26,
+            "K": 54.77,
+            "Ca": 1.66,
+            "Mg": 4.52,
+            "Fe": 0.139,
+            "Zn": 0.062 
+        },
+        {
+            "name": "motcha_powder",
+            "weight": 0,
+            "calories": 3.61,
+            "show": false,
+            "protein": 0.234,
+            "fat": 0.064,
+            "satFat": 0.029,
+            "carb": 0.63,
+            "dietaryFiber": 0.347,
+            "Na": 0.04,
+            "K": 14.8,
+            "Ca": 5.79,
+            "Mg": 2.16,
+            "Fe": 0.083,
+            "Zn": 0.018
+        },
+        {
+            "name": "whole_milk_powder",
+            "weight": 0,
+            "calories": 5.04,
+            "show": false,
+            "protein": 0.264,
+            "fat": 0.282,
+            "satFat": 0.193,
+            "carb": 0.37,
+            "dietaryFiber": 0,
+            "Na": 3.37,
+            "K": 11.64,
+            "Ca": 9.12,
+            "Mg": 0.94,
+            "Fe": 0.002,
+            "Zn": 0.029
+        },
+        {
+            "name": "skimmed_milk_powder",
+            "weight": 0,
+            "calories": 3.61,
+            "show": false,
+            "protein": 0.362,
+            "fat": 0.009,
+            "satFat": 0.004,
+            "carb": 0.512,
+            "dietaryFiber": 0,
+            "Na": 3.38,
+            "K": 17.58,
+            "Ca": 14.06,
+            "Mg": 1.15,
+            "Fe": 0.002,
+            "Zn": 0.04
+        },
+        {
+            "name": "yeast_powder",
+            "weight": 0,
+            "calories": 3.47,
+            "show": false,
+            "protein": 0.463,
+            "fat": 0,
+            "satFat": 0,
+            "carb": 0.404,
+            "dietaryFiber": 0.213,
+            "Na": 1.4,
+            "K": 17.7,
+            "Ca": 1.19,
+            "Mg": 1.23,
+            "Fe": 0.078,
+            "Zn": 0.063
+        },
+        {
+            "name": "corn_starch",
+            "weight": 0,
+            "calories": 3.69,
+            "show": false,
+            "protein": 0.003,
+            "fat": 0.004,
+            "satFat": 0.001,
+            "carb": 0.883,
+            "dietaryFiber": 0.002,
+            "Na": 0.14,
+            "K": 0.04,
+            "Ca": 0.02,
+            "Mg": 0.03,
+            "Fe": 0.002,
+            "Zn": 0
+        },
+        {
+            "name": "cassava_starch",
+            "weight": 0,
+            "calories": 3.62,
+            "show": false,
+            "protein": 0.001,
+            "fat": 0.002,
+            "satFat": 0,
+            "carb": 0.873,
+            "dietaryFiber": 0.002,
+            "Na": 0.01,
+            "K": 0.27,
+            "Ca": 0.32,
+            "Mg": 0.03,
+            "Fe": 0.003,
+            "Zn": 0
+        },
+        {
+            "name": "baking_powder",
+            "weight": 0,
+            "calories": 0.53,
+            "show": false,
+            "protein": 0,
+            "fat": 0,
+            "satFat": 0,
+            "carb": 0.28,
+            "dietaryFiber": 0.002,
+            "Na": 106,
+            "K": 0.2,
+            "Ca": 58.8,
+            "Mg": 0.27,
+            "Fe": 0.11,
+            "Zn": 0
+        }
+    ],
+
+    "OTHERS":[
+        {
+            "name": "milk",
+            "weight": 0,
+            "calories": 0.63,
+            "show": false,
+            "protein": 0.031,
+            "fat": 0.036,
+            "satFat": 0.025,
+            "carb": 0.048,
+            "dietaryFiber": 0,
+            "Na": 0.37,
+            "K": 1.47,
+            "Ca": 1.04,
+            "Mg": 0.1,
+            "Fe": 0.001,
+            "Zn": 0.004
+        },
+        {
+            "name": "low-fat_milk",
+            "weight": 0,
+            "calories": 0.43,
+            "show": false,
+            "protein": 0.031,
+            "fat": 0.013,
+            "satFat": 0.009,
+            "carb": 0.05,
+            "dietaryFiber": 0,
+            "Na": 0.36,
+            "K": 1.37,
+            "Ca": 0.98,
+            "Mg": 0.09,
+            "Fe": 0.003,
+            "Zn": 0.005
+        },
+        {
+            "name": "gelatin",
+            "weight": 0,
+            "calories": 0.6,
+            "show": false,
+            "protein": 0.0122,
+            "fat": 0,
+            "satFat": 0,
+            "carb": 0.142,
+            "dietaryFiber": 0,
+            "Na": 0.75,
+            "K": 0.01,
+            "Ca": 0.03,
+            "Mg": 0.01,
+            "Fe": 0,
+            "Zn": 0
         }
     ]
 }
